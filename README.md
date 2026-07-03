@@ -178,4 +178,4 @@ Kontribusi, saran, dan diskusi sangat terbuka! Silakan buat *issue* atau *pull r
 
 ---
 
-<p align="center">Made with ❤️ using scikit-learn</p>
+
